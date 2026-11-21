@@ -1,2 +1,2 @@
 # RustDev
-Rust for Solana Dev
+Rust for Solana Development
